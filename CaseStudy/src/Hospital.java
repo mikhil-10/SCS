@@ -60,7 +60,7 @@ public class Hospital {
 		System.out.println(doc.salary(100000,3000));
 		
 		Nurse n1 = new Nurse("Nurse1 ",201);
-		Nurse n2 = new Nurse("Nurse2",202);
+		Nurse n2 = new Nurse("Nurse2 ",202);
 		System.out.println(n1);
 		System.out.println(n2);
 		System.out.println(n1.salary(50000));
